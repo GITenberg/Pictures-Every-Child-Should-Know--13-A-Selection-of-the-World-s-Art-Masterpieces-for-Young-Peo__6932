@@ -1,0 +1,32 @@
+_repo: Pictures-Every-Child-Should-Know--13-A-Selection-of-the-World-s-Art-Masterpieces-for-Young-Peo__6932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacon, Mary Schell Hoke
+    alias: Bacon, Dolores
+    birthdate: 1870
+    deathdate: 1934
+    gutenberg_agent_id: '2265'
+    url: http://www.gutenberg.org/2009/agents/2265
+    wikipedia: http://www.gutenberg.org/browse/authors/m#a40308
+description: ''
+gutenberg_bookshelf:
+- Children's Anthologies
+- Art
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- Juvenile literature'
+- !lcc 'ND'
+- !lcsh 'Painting -- Juvenile literature'
+- !lcsh 'Painters -- Juvenile literature'
+- GITenberg
+title: "Pictures Every Child Should Know\r\nA Selection of the World's Art Masterpieces\
+  \ for Young People"
+url: http://www.gutenberg.org/ebooks/6932
